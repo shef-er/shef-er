@@ -17,4 +17,7 @@ Here are some ideas to get you started:
 
 I'm PHP Backend Developer from Yekaterinburg, Russia.  
 
+Love GNU/Linux kernel based systems and CLI interface.  
+Also interested in SRE and lightweight frontend developement.
+
 Now working on APIs in Raketa.world.  
