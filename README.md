@@ -14,4 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Working in Raketa.world.
+
+I'm PHP Backend Developer from Yekaterinburg, Russia.  
+
+Now working on APIs in Raketa.world.  
