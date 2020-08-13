@@ -14,10 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Yo. 👋
 
-I'm PHP Backend Developer from Yekaterinburg, Russia.  
+I'm **PHP Backend Developer** from Yekaterinburg, Russia.  
 
-Love GNU/Linux based OS and CLI interface.  
-Also interested in SRE and lightweight frontend developement.
+**Love GNU/Linux** based OS and **CLI interfaces**.  
+Also interested in **DevOps**, **SRE** and **lightweight frontend** developement.
 
-Now working on APIs in Raketa.world.  
+Currently working on APIs in [Raketa.world](https://www.raketa.world/).
+
+### Working with technologies:
+`PHP`, `Symfony`, `Slim Framework`, `Laravel`, `Nginx`, `MySQL`, `PostgreSQL`, `Docker`, `Bash`, `C++`, `Python`, `JavaScript`, `SASS`, `CSS`, `HTML`
