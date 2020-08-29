@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Yo 👋
+### Hello everyone 👋
 
 I'm **PHP Backend Developer** from Yekaterinburg, Russia.  
 
