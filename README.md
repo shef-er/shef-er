@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 I'm **PHP Backend Developer** from Yekaterinburg, Russia.  
 
 **Love GNU/Linux** based OS and **CLI interfaces**.  
-Also interested in **DevOps**, **SRE** and **lightweight frontend** developement.
+Also interested in **DevOps**, **SRE** and **lightweight** frontend developement.
 
 Currently working on APIs in [Raketa.world](https://www.raketa.world/).
 
