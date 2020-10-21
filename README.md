@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ### Hello everyone 👋
 
-I'm **PHP Backend Developer** from Yekaterinburg, Russia.  
+I'm **Backend Developer** from Yekaterinburg, Russia.  
 
 **Love GNU/Linux** based OS and **CLI interfaces**.  
 Also interested in **DevOps**, **SRE** and **lightweight** frontend developement.
