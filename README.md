@@ -24,4 +24,4 @@ Also interested in **DevOps**, **SRE** and **frontend** developement.
 Currently working on APIs in [Raketa.world](https://www.raketa.world/).
 
 ### Working with technologies:
-`PHP`, `Symfony`, `Slim Framework`, `Laravel`, `Nginx`, `MySQL`, `PostgreSQL`, `Docker`, `Bash`, `C++`, `Python`, `JavaScript`, `SASS`, `CSS`, `HTML`
+`PHP`, `Symfony`, `Slim Framework`, `Laravel`, `Nginx`, `MySQL`, `PostgreSQL`, `Docker`, `Bash`, `Python`, `JavaScript`, `SASS`, `CSS`, `HTML`
