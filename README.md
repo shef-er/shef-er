@@ -16,12 +16,14 @@ Here are some ideas to get you started:
 -->
 ### Hello everyone 👋
 
-I'm **Backend Developer** from Yekaterinburg, Russia.  
+I'm **Backend Developer** from Yekaterinburg, Russia  
 
-**Love GNU/Linux** based OS and **CLI interfaces**.  
-Also interested in **DevOps**, **SRE** and **frontend** developement.
+**GNU/Linux** and **OSS** lover  
+I have total 4 years of experience in **PHP** and a little experience in **Python**  
+Also I love **clean and minimalistic UIs** and interested in **modern frontend** developement  
 
-Currently working on APIs in [Raketa.world](https://www.raketa.world/).
+Currently working on APIs in [Raketa.world](https://www.raketa.world/)
 
-### Working with technologies:
-`PHP`, `Symfony`, `Slim Framework`, `Laravel`, `Nginx`, `MySQL`, `PostgreSQL`, `Docker`, `Bash`, `Python`, `JavaScript`, `SASS`, `CSS`, `HTML`
+### Work with the following technologies:
+- Web backend: `PHP`, `Slim`, `Symfony`, `Nginx`, `MySQL`, `PostgreSQL`, `Docker`, `Bash`, `Python`
+- Web frontend: `JavaScript`, `TypeScript`, `HTML`, `CSS`, `SASS`
