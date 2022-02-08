@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 
 I'm **Backend Developer** from Yekaterinburg, Russia  
 
-**GNU/Linux** and **OSS** lover  
 I have total 4 years of experience in **PHP** and a little experience in **Python**  
 Also I love **clean and minimalistic UIs** and interested in **modern frontend** developement  
 
