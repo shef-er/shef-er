@@ -25,4 +25,4 @@ Currently working on APIs in [Raketa.world](https://www.raketa.world/)
 
 ### Work with the following technologies:
 - Web backend: `PHP`, `Slim`, `Symfony`, `Nginx`, `MySQL`, `PostgreSQL`, `Docker`, `Bash`, `Python`
-- Web frontend: `JavaScript`, `TypeScript`, `HTML`, `CSS`, `SASS`
+- Web frontend: `JavaScript`, `TypeScript`, `React`, `Redux`, `HTML`, `CSS`, `SASS`
