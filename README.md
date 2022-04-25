@@ -22,5 +22,5 @@ I have total 4 years of experience in **PHP** and a little experience in **Pytho
 Also I love **clean and minimalistic UIs** and interested in **modern frontend** developement  
 
 ### Work with the following technologies:
-- Web backend: `PHP`, `Slim`, `Laravel`, `Symfony`, `Nginx`, `MySQL`, `PostgreSQL`, `Docker`, `Bash`, `Python`
-- Web frontend: `JavaScript`, `TypeScript`, `React`, `Redux`, `HTML`, `CSS`, `SASS`
+- Web backend: `PHP`, `Slim`, `Laravel`, `Nginx`, `MySQL`, `PostgreSQL`, `Docker`, `Bash`, `Python`
+- Web frontend: `JavaScript`, `TypeScript`, `React+Redux`, `HTML`, `CSS`, `SCSS`
