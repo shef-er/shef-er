@@ -4,7 +4,7 @@ Yekaterinburg | [github.com/shef-er](https://github.com/shef-er) | [t.me/shef_er
 
 PHP • MySQL • Slim • Laravel • PhpUnit • Docker • Git • SCRUM
 
-* Languages: **PHP**, **SQL**, **JavaScript**, **TypeScript**, **Bash**, **Python**
+* Languages: **PHP**, **SQL**, **JavaScript**, **TypeScript**, **Shell**, **Python**
 * Databases: **MySQL**, **PostgreSQL**, **Sqlite**
 * Frameworks: **Slim**, **Laravel**, **Symfony**
 * Testing: **PhpUnit**, **Mockery**
