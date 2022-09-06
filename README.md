@@ -9,5 +9,6 @@ PHP • MySQL • Slim • Laravel • PhpUnit • Docker • Git • SCRUM
 * Frameworks: **Slim**, **Laravel**, **Symfony**
 * Testing: **PhpUnit**, **Mockery**
 * Principles: **SOLID**, **DRY**, **KISS**, **паттерны GoF**, **PSR**
+* Russian: **Native**
 * English: **Upper-Intermediate**
 * Other: **Linux**, **Docker Compose**, **Nginx**, **RabbitMQ**
