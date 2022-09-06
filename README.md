@@ -1,26 +1,13 @@
-<!--
-### Hi there 👋
+### Middle PHP-developer, 4 yrs. experience
 
-**shef-er/shef-er** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Yekaterinburg | [github.com/shef-er](https://github.com/shef-er) | [t.me/shef_er](https://t.me/shef_er) | [shef-er@ya.ru](mailto:shef-er@ya.ru) | [+7 922-034-3929](tel:+79220343929)  
 
-Here are some ideas to get you started:
+PHP • MySQL • Slim • Laravel • PhpUnit • Docker • Git • SCRUM
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### Hello everyone 👋
-
-I'm **Backend Developer** from Yekaterinburg, Russia  
-
-I have total 4 years of experience in **PHP** and a little experience in **Python**  
-Also I love **clean and minimalistic UIs** and interested in **modern frontend** developement  
-
-### Work with the following technologies:
-- Web backend: `PHP`, `Slim`, `Laravel`, `Nginx`, `MySQL`, `PostgreSQL`, `Docker`, `Bash`, `Python`
-- Web frontend: `JavaScript`, `TypeScript`, `React+Redux`, `HTML`, `CSS`, `SCSS`
+* Languages: **PHP**, **SQL**, **JavaScript**, **TypeScript**, **Bash**, **Python**
+* Databases: **MySQL**, **PostgreSQL**, **Sqlite**
+* Frameworks: **Slim**, **Laravel**, **Symfony**
+* Testing: **PhpUnit**, **Mockery**
+* Principles: **SOLID**, **DRY**, **KISS**, **паттерны GoF**, **PSR**
+* English **Upper-Intermediate**
+* Other: **Linux**, **Docker Compose**, **Nginx**, **RabbitMQ**
