@@ -8,7 +8,7 @@ PHP • MySQL • Slim • Laravel • PhpUnit • Docker • Nginx • Git • 
 * Databases: **MySQL**, **PostgreSQL**, **Sqlite**
 * Frameworks: **Slim**, **Laravel**, **Symfony**
 * Testing: **PhpUnit**, **Mockery**
-* Principles: **SOLID**, **DRY**, **KISS**, **паттерны GoF**, **PSR**
+* Principles: **SOLID**, **DRY**, **KISS**, **GoF patterns**, **MVC**, **PSR**
 * Russian: **Native**
 * English: **Upper-Intermediate**
 * Other: **Linux**, **Docker Compose**, **Nginx**, **RabbitMQ**
