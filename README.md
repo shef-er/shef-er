@@ -5,7 +5,7 @@ Yekaterinburg (UTC+5) | [github.com/shef-er](https://github.com/shef-er) | [t.me
 PHP • MySQL • Slim • Laravel • PhpUnit • Docker • Nginx • Git • Linux • Scrum
 
 * Languages: **PHP**, **SQL**, **JavaScript**, **TypeScript**, **Shell**, **Python**
-* Databases: **MySQL**, **PostgreSQL**, **Sqlite**, **Redis**
+* Databases: **MySQL**, **PostgreSQL**, **SQLite**, **Redis**
 * Frameworks: **Slim**, **Laravel**, **Silex**
 * Testing: **PhpUnit**, **Mockery**
 * Principles: **SOLID**, **DRY**, **KISS**, **GoF patterns**, **MVC**, **PSR**
