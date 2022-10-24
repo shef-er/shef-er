@@ -6,9 +6,9 @@ PHP • MySQL • Slim • Laravel • Docker • Git • Linux
 
 * Russian: **Native**
 * English: **Upper-Intermediate**
-* Languages: **PHP {7,8}**, **SQL**, **Bash**, **JavaScript**, **TypeScript**
+* Languages: **PHP**, **SQL**, **Bash**, **JavaScript**, **TypeScript**
 * Databases: **MySQL / MariaDB**, **PostgreSQL**, **SQLite**, **Redis**
-* Frameworks: **Slim**, **Laravel**
+* Frameworks: **Laravel**, **Slim** 
 * Testing: **PhpUnit**, **Mockery**, **Hamcrest**
 * Principles: **SOLID**, **DRY**, **KISS**, **GoF patterns**, **MVC**, **PSR**
-* Other: **Linux**, **Docker Compose**, **Nginx**, **RabbitMQ**
+* Other: **Linux**, **Docker Compose**, **Nginx**, **RoadRunner**, **RabbitMQ**
