@@ -5,10 +5,10 @@ Yekaterinburg (UTC+5) | [github.com/shef-er](https://github.com/shef-er) | [t.me
 PHP • Laravel • Slim • MySQL • Docker • Git • Linux
 
 * Russian: **Native**
-* English: **Upper-Intermediate**
+* English: **Upper Intermediate**
 * Languages: **PHP**, **SQL**, **Bash**, **JavaScript**, **TypeScript**
 * Databases: **MySQL / MariaDB**, **PostgreSQL**, **SQLite**, **Redis**
 * Frameworks: **Laravel**, **Slim** 
 * Testing: **PhpUnit**, **Mockery**, **Hamcrest**
 * Principles: **SOLID**, **DRY**, **KISS**, **GoF patterns**, **MVC**, **PSR**
-* Other: **Linux**, **Docker Compose**, **Nginx**, **RoadRunner**, **RabbitMQ**
+* Other: **Linux**, **Docker**, **Nginx**, **RoadRunner**, **RabbitMQ**, **K8s**
