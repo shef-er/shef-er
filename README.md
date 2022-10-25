@@ -11,4 +11,4 @@ PHP • Laravel • Slim • MySQL • Docker • Git • Linux
 * Frameworks: **Laravel**, **Slim** 
 * Testing: **PhpUnit**, **Mockery**, **Hamcrest**
 * Principles: **SOLID**, **DRY**, **KISS**, **GoF patterns**, **MVC**, **PSR**
-* Other: **Linux**, **Docker**, **Nginx**, **RoadRunner**, **RabbitMQ**, **K8s**
+* Other: **Git**, **Linux**, **Nginx**, **RoadRunner**, **RabbitMQ**, **Docker**, **K8s**
