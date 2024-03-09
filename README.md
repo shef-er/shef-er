@@ -1,14 +1,12 @@
-### Middle PHP-developer, 5 yrs. exp.
+### PHP/Golang-разработчик, 6 лет опыта
 
-Yekaterinburg (UTC+5) | [github.com/shef-er](https://github.com/shef-er) | [t.me/shef_er](https://t.me/shef_er) | [shef-er@ya.ru](mailto:shef-er@ya.ru) | [+7 (922) 034-39-29](tel:+79220343929)  
+Екатеринбург, Россия (UTC+5) | [github.com/shef-er](https://github.com/shef-er) | [t.me/shef_er](https://t.me/shef_er)
 
-PHP • Laravel • Slim • MySQL • Docker • Git • Linux
+PHP • Golang • PostgreSQL • Docker • Git • Linux • Bash
 
-* Russian: **Native**
-* English: **Upper Intermediate**
-* Languages: **PHP**, **SQL**, **Bash**, **Go**, **JavaScript**, **TypeScript**
-* Databases: **MySQL / MariaDB**, **PostgreSQL**, **SQLite**, **Redis**
-* Frameworks: **Laravel**, **Slim** 
-* Testing: **PhpUnit**, **Mockery**, **Hamcrest**
-* Principles: **SOLID**, **DRY**, **KISS**, **GoF patterns**, **MVC**, **PSR**
-* Other: **Git**, **Linux**, **Nginx**, **RoadRunner**, **Traefik**, **RabbitMQ**, **Docker**, **K8s**
+* Английский: **Upper Intermediate (B2)**
+* Языки: **PHP**, **SQL**, **Bash**, **Golang**
+* Базы данных: **MySQL / MariaDB**, **PostgreSQL**, **MySQL**, **SQLite**, **Redis**
+* PHP Фреймворки: **Laravel**, **Symfony** , **Slim**
+* Принципы: **SOLID**, **DRY**, **KISS**, **GoF patterns**, **PSR**
+* Прочее: **Git**, **Linux**, **Nginx**, **RoadRunner**, **Traefik**, **RabbitMQ**, **Docker**
