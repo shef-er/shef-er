@@ -8,5 +8,5 @@ PHP • Golang • PostgreSQL • Docker • Git • Linux • Bash
 * Языки: **PHP**, **SQL**, **Bash**, **Golang**
 * Базы данных: **PostgreSQL**, **MySQL / MariaDB**, **SQLite**, **Redis**
 * PHP Фреймворки: **Laravel**, **Symfony** , **Slim**
-* Принципы: **SOLID**, **DRY**, **KISS**, **GoF patterns**, **PSR**
+* Принципы: **SOLID**, **DRY**, **KISS**, **паттерны GoF**, **PSR**
 * Прочее: **Git**, **Linux**, **Nginx**, **RoadRunner**, **Traefik**, **RabbitMQ**, **Docker**
