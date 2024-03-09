@@ -5,7 +5,7 @@
 PHP • Golang • PostgreSQL • Docker • Git • Linux • Bash
 
 * Английский: **Upper-Intermediate (B2)**
-* Языки: **PHP**, **SQL**, **Bash**, **Golang**
+* Языки: **PHP**, **Golang**, **SQL**, **Bash**
 * Базы данных: **PostgreSQL**, **MySQL / MariaDB**, **SQLite**, **Redis**
 * PHP Фреймворки: **Laravel**, **Symfony** , **Slim**
 * Принципы: **SOLID**, **DRY**, **KISS**, **паттерны GoF**, **PSR**
